@@ -9,8 +9,8 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Calegasss-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Calegasss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contato-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/matheus-jorge-calegario-b80632248)
+[![Email](https://img.shields.io/badge/Email-Contato-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jorgecalegariomatheus@gmail.com)
 
 </div>
 
