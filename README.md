@@ -71,7 +71,6 @@ Atualmente estou construindo minha base técnica, desenvolvendo projetos prátic
 ![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![SQL](https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![PowerShell](https://img.shields.io/badge/PowerShell-020617?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![Markdown](https://img.shields.io/badge/Markdown-020617?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Backend, banco de dados e infraestrutura
 
@@ -86,7 +85,6 @@ Atualmente estou construindo minha base técnica, desenvolvendo projetos prátic
 ![VS Code](https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Windows](https://img.shields.io/badge/Windows-020617?style=for-the-badge&logo=windows&logoColor=0078D4)
-![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
@@ -163,54 +161,6 @@ Gosto de entender o problema antes de sair programando. Para mim, uma boa soluç
 
 ---
 
-## 📂 Projetos em destaque
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Projeto</th>
-    <th>Descrição</th>
-    <th>Tecnologias</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Calegasss/PerformanceBackup">
-        <strong>PerformanceBackup</strong>
-      </a>
-    </td>
-    <td>
-      Projeto voltado para organização, backup, análise de performance ou automação de processos.
-    </td>
-    <td>
-      TypeScript, Node.js, Docker
-    </td>
-    <td>
-      Em desenvolvimento
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Calegasss/Bitbucket">
-        <strong>Bitbucket</strong>
-      </a>
-    </td>
-    <td>
-      Projeto de estudo e prática relacionado a versionamento, organização de código e desenvolvimento.
-    </td>
-    <td>
-      TypeScript, Git, GitHub
-    </td>
-    <td>
-      Em evolução
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 🏗️ Tipos de projeto que quero desenvolver
 
