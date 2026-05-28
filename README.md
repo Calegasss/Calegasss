@@ -290,17 +290,6 @@ Também gosto de trabalhar com automações para reduzir tarefas repetitivas, me
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Calegasss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calegasss&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" />
-
-</div>
-
----
 
 ## 🔥 Sequência de contribuições
 
