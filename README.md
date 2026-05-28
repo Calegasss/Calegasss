@@ -176,6 +176,7 @@ Gosto de entender o problema antes de sair programando. Para mim, uma boa soluç
 | Engenharia | Controle, automação, processos e análise técnica |
 
 </div>
+
 ---
 
 ## 🧠 Mentalidade de aprendizado
