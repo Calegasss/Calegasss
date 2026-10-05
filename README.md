@@ -133,52 +133,6 @@ Atualmente estou construindo minha base técnica, desenvolvendo projetos prátic
 
 ---
 
-## 🧩 Minha forma de trabalhar
-
-Gosto de entender o problema antes de sair programando. Para mim, uma boa solução precisa ser clara, útil, organizada e fácil de manter.
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>✅ Código limpo</td>
-    <td>✅ Boa organização</td>
-    <td>✅ Documentação clara</td>
-  </tr>
-  <tr>
-    <td>✅ Pensamento lógico</td>
-    <td>✅ Foco no problema</td>
-    <td>✅ Solução prática</td>
-  </tr>
-  <tr>
-    <td>✅ Aprendizado contínuo</td>
-    <td>✅ Evolução constante</td>
-    <td>✅ Projetos reais</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-
-| Área | Conteúdos |
-|---|---|
-| Backend | Node.js, TypeScript, APIs REST |
-| Banco de Dados | PostgreSQL, SQL avançado, views e modelagem |
-| DevOps | Docker, containers e deploy |
-| Versionamento | Git, GitHub, branches e commits |
-| Automação | Scripts, rotinas e agendamentos |
-| Cloud | Fundamentos de Azure e computação em nuvem |
-| Engenharia | Controle, automação, processos e análise técnica |
-
-</div>
-
----
-
 ## 🧠 Mentalidade de aprendizado
 
 Acredito que evolução vem da prática constante. Por isso, busco estudar, testar, errar, corrigir, melhorar e documentar o que aprendo.
@@ -193,16 +147,6 @@ Cada projeto publicado aqui representa uma etapa da minha evolução como profis
 
 ---
 
-## 💡 Frases que representam minha evolução
-
-> “A prática transforma conhecimento em habilidade.”
-
-> “Código bom não é apenas o que funciona, mas o que pode ser entendido, mantido e melhorado.”
-
-> “Tecnologia é ferramenta. O objetivo é resolver problemas.”
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -212,8 +156,8 @@ Acompanhe minha evolução ou entre em contato comigo pelos links abaixo:
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Calegasss-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Calegasss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/](https://www.linkedin.com/in/matheus-jorge-calegario-b80632248?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-020617?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jorgecalegariomatheus@gmail.com)
 
 </div>
 
