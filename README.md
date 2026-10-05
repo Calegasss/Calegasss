@@ -133,21 +133,8 @@ Atualmente estou construindo minha base técnica, desenvolvendo projetos prátic
 
 ---
 
-## 🧠 Mentalidade de aprendizado
-
-Acredito que evolução vem da prática constante. Por isso, busco estudar, testar, errar, corrigir, melhorar e documentar o que aprendo.
-
-<div align="center">
-
-<h3>Estudar → Praticar → Errar → Corrigir → Melhorar → Repetir</h3>
-
-</div>
-
-Cada projeto publicado aqui representa uma etapa da minha evolução como profissional de tecnologia.
-
----
-
 ## 📫 Contato
+
 
 <div align="center">
 
